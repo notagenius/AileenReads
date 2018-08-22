@@ -1,6 +1,5 @@
 # AileenReads
-somehow, making 100 books every year changelle, little fun. it starts in 2016， in 2016 I didn't record what I read。
-In 2017, i didn't take notes. In 2018, I started to take notes! yeah
+I read 100 books every year as a happy changelle, little fun. it starts since 2016， in 2016 I didn't record what I read。 In 2017, i didn't take notes. In 2018, I started to take notes in github. yeah
 
 ## What I have finished in 2018
 1. Between The World and Me (probably one of the best books I have ever read)
