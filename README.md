@@ -21,3 +21,5 @@ I read 100 books every year as a happy changelle, little fun. it starts since 20
 9. The Node Beginner Book (4/5 you don't want to learn a new technique by just hacking around and mis-using it; you want to be sure that you are approaching it from the right angle. )
 
 10. OpenGL SuperBible: Comprehensive Tutorial and Reference （what is going on... it is like a mission impossible to go on the tutorial）
+
+11. The Noonday Demon : An Atlas of Depression
